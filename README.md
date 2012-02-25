@@ -1,6 +1,6 @@
 # WeightWatchr
 
-!(https://github.com/btvwag/weightwatchr/raw/master/images/cake.png)
+![Cake](https://github.com/btvwag/weightwatchr/raw/master/images/cake.png)
 
 A simple Spine, localStorage application that tracks your weight.
 
