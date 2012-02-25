@@ -1,5 +1,7 @@
 # WeightWatchr
 
+!(https://github.com/btvwag/weightwatchr/raw/master/images/cake.png)
+
 A simple Spine, localStorage application that tracks your weight.
 
 You can preview the app here http://seanbehan.com/weightwatchr
